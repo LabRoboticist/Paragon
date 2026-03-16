@@ -11,6 +11,7 @@
 
 ### High Level Math Generator
 <p>I will be using multiple different skills to develop this math generator and solver. As I said in my description this game is directly inspired by <ins>Prodigy</ins> a game used to always play in elementry to practise math. I loved how deep the lore was and all the littel monsters and magic. However, what I appreciated the most from tthe game was how easy it made studying. It genuinly felt like a game and it was so fast, so easy! I hope to eventually get the same experience in my game when I am done but with a darker story and much, MUCH harder problems to solve.</p>
+
 * Latex - This is how am planning to format all the equations for the UI. 
 * C++ - This is my coding of language of choice to determine/generate and solve the high level math problems.
 * AI - I might be using ai to develop explinations or develop problems I CANNOT do with just C++. 

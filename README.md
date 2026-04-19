@@ -18,5 +18,5 @@
 * Data Structure - I will be using a tree to hold as amny possible combinations of 
 
 ### My First Pixel Art :)
-![My Pixel Art](First%20Bottle.jpeg)
+![My Pixel Art](First%20Bottle.png)
 

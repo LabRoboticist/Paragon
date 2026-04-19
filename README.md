@@ -17,4 +17,6 @@
 * AI - I might be using ai to develop explinations or develop problems I CANNOT do with just C++. 
 * Data Structure - I will be using a tree to hold as amny possible combinations of 
 
+### My First Pixel Art :)
+
 
